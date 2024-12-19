@@ -1,0 +1,38 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Other files
+*.log
+*.tmp
+*.temp
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.vcxproj
