@@ -5,7 +5,7 @@
 
 using json = nlohmann::json;
 
-// Callback function for curl
+// Callback function for curl.
 static size_t WriteCallback(void* contents, size_t size, size_t nmemb, std::string* s) {
     size_t newLength = size * nmemb;
     try {
